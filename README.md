@@ -4,12 +4,14 @@ Formado em Sistemas de Informação com pós graduação em Gestão de Projetos 
 > [!NOTE]
 > Formação em andamento: Especialização BIG DATA (CIÊNCIA DE DADOS), INTELIGÊNCIA ARTIFICIAL, BANCO DE DADOS.
 ## Experiência de trabalho 🩹
+[Companhia de Participação e Gestão de Ativos do Ceará](https://cepart.com.br/)
+Gerente de Tecnologia-CearaPar.</br>
+[Prefeitura Municipal de Crato](https://crato.ce.gov.br)
+Analista Desenvolvedor Sênior e Coordenador de Infraestrutura e Redes.</br>
 [Unileão Centro Universitário](https://unileao.edu.br/)
 Professor nas disciplinas de Engenharia de Software, Gestão de Projetos de TI, Fundamentos de Hardware e Software, Análise e Projeto de desenvolvimento de software, Redes de computadores, Estrutura de dados e organização de arquivos, Fundamentos de Orientação a Objetos e Programação Orientada a Objetos I.</br>
-[Prefeitura Municipal de Crato](https://crato.ce.gov.br)
-Coordenador de Infraestrutura e Redes e Analista Desenvolvedor Sênior.</br>
-[Companhia de Participação e Gestão de Ativos do Ceará](https://cepart.com.br/)
-Gerente de Tecnologia-CearaPar
+
+
 ## Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
